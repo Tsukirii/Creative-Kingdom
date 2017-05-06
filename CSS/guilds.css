@@ -1,64 +1,64 @@
 /*....Guild: Wild Spirit*/
 
 #umber li.row:nth-child(4) .hazel em {
-    float: none;
-    color: #666;
-    font-size: 11px;
-    margin-right: 10px
+    float: none!important;
+    color: #666!important;
+    font-size: 11px!important;
+    margin-right: 10px!important;
 }
 
 #umber li.row:nth-child(4) .hazel br {
-    display: none
+    display: none!important;
 }
 
 #umber li.row:nth-child(4) .cocoa,
 #umber li.row:nth-child(4) .hazel {
-    background: transparent;
-    border: none;
-    position: relative;
-    z-index: 1;
-    width: 100%;
-    padding: 0;
-    margin: -17px 0
+    background: transparent!important;
+    border: none!important;
+    position: relative!important;
+    z-index: 1!important;
+    width: 100%!important;
+    padding: 0!important;
+    margin: -17px 0!important;
 }
 
 #umber li.row:nth-child(4) .cocoa {
-    float: right;
-    width: 180px;
-    background: #f2f2f2;
-    margin: 100px 10px 0;
-    min-height: 37px
+    float: right!important;
+    width: 180px!important;
+    background: #f2f2f2!important;
+    margin: 100px 10px 0!important;
+    min-height: 37px!important;
 }
 
 
 /*....Guild: Dummy*/
 
 #umber li.row:nth-child(5) .hazel em {
-    float: none;
-    color: #666;
-    font-size: 11px;
-    margin-right: 10px
+    float: none!important;
+    color: #666!important;
+    font-size: 11px!important;
+    margin-right: 10px!important;
 }
 
 #umber li.row:nth-child(5) .hazel br {
-    display: none
+    display: none!important;
 }
 
 #umber li.row:nth-child(5) .cocoa,
 #umber li.row:nth-child(5) .hazel {
-    background: transparent;
-    border: none;
-    position: relative;
-    z-index: 1;
-    width: 100%;
-    padding: 0;
-    margin: -17px 0
+    background: transparent!important;
+    border: none!important;
+    position: relative!important;
+    z-index: 1!important;
+    width: 100%!important;
+    padding: 0!important;
+    margin: -17px 0!important;
 }
 
 #umber li.row:nth-child(5) .cocoa {
-    float: right;
-    width: 180px;
-    background: #f2f2f2;
-    margin: 100px 10px 0;
-    min-height: 37px
+    float: right!important;
+    width: 180px!important;
+    background: #f2f2f2!important;
+    margin: 100px 10px 0!important;
+    min-height: 37px!important;
 }
