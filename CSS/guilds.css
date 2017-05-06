@@ -1,3 +1,28 @@
+/*Guilds*/
+
+#umber li.row:nth-child(4),
+#umber li.row:nth-child(5) {
+    width: 457px!important;
+    background: #fcfcfc!important;
+    height: 220px!important;
+}
+
+#umber li.row:nth-child(4) .cocoa,
+#umber li.row:nth-child(4) .hazel {
+    z-index: 1;
+    position: relative!important;
+    background: transparent!important;
+    border: none!important;
+}
+
+#umber li.row:nth-child(5) .cocoa,
+#umber li.row:nth-child(5) .hazel {
+    z-index: 1;
+    position: relative!important;
+    background: transparent!important;
+    border: none!important;
+}
+
 /*....Guild: Wild Spirit*/
 
 #umber li.row:nth-child(4) .hazel em {
